@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_bg">#121212</color>
+    <color name="dark_card_bg">#1A2421</color>
+    <color name="light_text_gray">#A0A0A0</color>
+    <color name="btn_green">#43A047</color>
+    <color name="status_bar_green">#2E7D32</color>
+    <color name="header_red">#E91E63</color>
+    <color name="card_content_bg">#FFFFFF</color>
+    <color name="alarm_btn_green">#4CAF50</color>
+    <color name="activity_bg">#F5F5F5</color>
+</resources>

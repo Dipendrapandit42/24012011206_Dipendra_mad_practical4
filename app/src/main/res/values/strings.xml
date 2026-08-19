@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">24012011206_Dipendra_mad_practical4</string>
+    <string name="title_alarm_practical">MAD_Alarm_Practical</string>
+    <string name="create_alarm_time">Create Alarm Time</string>
+    <string name="alarm_description">By pressing buttons, Alarm can be created and cancelled.</string>
+    <string name="check_current_time">Check Current time by looking below real digital clock.</string>
+    <string name="default_alarm_time">11:47:25 PM Aug,14 2022</string>
+    <string name="btn_create_alarm">Create Alarm</string>
+    <string name="btn_cancel_alarm">Cancel Alarm</string>
+    <string name="alarm_cancelled">Alarm Cancelled</string>
+    <string name="alarm_image_desc">Alarm Illustration</string>
+    <string name="set_alarm_time_label">Set Alarm Time:</string>
+    <string name="cancel_alarm_default_time">11:47 00 PM</string>
+</resources>
